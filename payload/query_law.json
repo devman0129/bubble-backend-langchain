@@ -1,0 +1,32 @@
+{
+    "laws_source": [
+        "source-1"
+    ],
+    "laws_type": [
+        "type-1"
+    ],
+    "laws_list": [
+        "code-1", "code-2"
+    ],
+    "laws_table": [
+        {
+            "code": "code-1",
+            "article_number": "article-1",
+            "law_source": "source-1",
+            "law_type": "type-1"
+        },
+        {
+            "code": "code-2",
+            "article_number": "article-2",
+            "law_source": "source-2",
+            "law_type": "type-2"
+        },
+        {
+            "code": "code-3",
+            "article_number": "article-3",
+            "law_source": "source-3",
+            "law_type": "type-3"
+        }
+    ],
+    "llm_memory": []
+}

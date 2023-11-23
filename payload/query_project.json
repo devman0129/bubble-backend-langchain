@@ -1,0 +1,41 @@
+{
+    "docs_source": [
+        "Client"
+    ],
+    "docs_type": [
+        "Document"
+    ],
+    "docs_list": [
+        "legaldoc-1", "legaldoc-2"
+    ],
+    "docs_table": [
+        {
+            "user_id": 12,
+            "project_id": 42,
+            "doc_id": "1",
+            "doc_name": "legaldoc-1",
+            "file_key": "uploads/12_42_230927_102400_assignment.pdf",
+            "doc_source": "Client",
+            "doc_type": "Document"
+        },
+        {
+            "user_id": 12,
+            "project_id": 9,
+            "doc_id": "2",
+            "doc_name": "legaldoc-2",
+            "file_key": "uploads/12_9_231005_202743_Il-etait-un-petit-navire.pdf",
+            "doc_source": "Client",
+            "doc_type": "Document"
+        },
+        {
+            "user_id": 12,
+            "project_id": 9,
+            "doc_id": "3",
+            "doc_name": "legaldoc-3",
+            "file_key": "uploads/12_9_231005_302743_test.pdf",
+            "doc_source": "Others",
+            "doc_type": "Procedure"
+        }
+    ],
+    "llm_memory": []
+}
